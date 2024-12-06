@@ -3,16 +3,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/zhl003?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/zhl003?label=Stars&style=social)
 
-I'm a passionate developer with a keen interest in [your interests or fields of expertise]. Here are a few things about me:
+I'm a passionate developer with a keen interest in []. Here are a few things about me:
 
-- 🔭 I’m currently working on [your current project or work]
-- 🌱 I’m currently learning [technologies or skills you are learning]
-- 👯 I’m looking to collaborate on [projects or topics you want to collaborate on]
-- 🤔 I’m looking for help with [areas where you need help]
-- 💬 Ask me about [topics you can help with]
-- 📫 How to reach me: [your contact information]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [a fun fact about you]
+- 🔭 I’m currently working on []
+- 🌱 I’m currently learning [go]
+- 👯 I’m looking to collaborate on []
+- 🤔 I’m looking for help with []
+- 💬 Ask me about []
+- 📫 How to reach me: []
+- 😄 Pronouns: []
+- ⚡ Fun fact: []
 
 ## 📈 GitHub Stats
 
